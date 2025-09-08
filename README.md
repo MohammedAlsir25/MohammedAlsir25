@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#4CAF50;">Hi, I'm Mohammed Alsir 👋</h1>
+<h1 align="center" style="color:#4CAF50;">Hi, I'm Mohammed Hamad 👋</h1>
 
 <p align="center">
   <em>A modern software engineer passionate about Shopify theme design, Android & web development, and continuous learning.</em>
