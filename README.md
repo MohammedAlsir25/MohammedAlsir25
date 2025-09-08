@@ -51,14 +51,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAlsir25&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 I’m currently building my portfolio here on GitHub. Feel free to explore my repositories and reach out if you want to collaborate or hire me for Shopify theme design or software development projects!
