@@ -54,7 +54,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAlsir25&show_icons=true&theme=radical" alt="Mohammed's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAlsir25&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
